@@ -1,0 +1,141 @@
+Thursday Morning
+
+=========
+
+Jer Thorpe http://about.me/jerthorp
+
+Visualising living inside data. The flows of human mobility based on requirements of infrastructure, eg transport timetables. 
+
+Using data to reel back our lives and make sense of them. 
+
+Data is rarely given. It is taken. It is Capta. 
+
+Developing a personal relationship with your data. 
+
+Geo-time data is a record of a moment, similar to a photo. 
+
+Floodwatch - browser plugin that captures all the ads you're shown. Allowing people to try and reverse engineer the algorithms and prejudices of advertising. 
+
+=================
+
+Gemma Galdon Clavell
+https://ub.academia.edu/GemmaGaldonClavell
+
+Threat model - everything, everywhere, all the time. 
+
+Your "data double" can be met more than your self presented self, and how much control do you have over that. 
+
+There's an assumption that we have control over our self-presented self. Yes, we have more control over that, or at least the potential to be more aware of it through experience, but how people interpret our self-presented self is often very surprising. Also, controlling that is exhausting!
+
+The trick to this seems to be to put yourself in a position where being judged on your "self" isn't a big deal. Which is, of course, impossible. 
+
+The threat seems to be that rather than an individual boxing you based on prejudice, the data will spread and everyone will box you based on the untouchable, machine-based prejudice on your data-double.
+
+Reverse-discrimination, eg at airports the rich are discriminated in favour of. 
+
+Sabotage the data-double. Give it bad info so it's useless. (Or would that make it more dangerous?) 
+
+==============
+
+Moritz Stefaner
+
+On Broadway http://on-broadway.nyc
+
+Taking a street and trying to understand it using streetview / geotagged shared stuff / abstractions. 
+
+https://vimeo.com/114383956
+
+Looking at "divides" and inequalities across different metrics from data that could be laid on the street. 
+
+"Layer cake" of stacked dataviz. 
+
+What is the "data double" of a place? How does it relate to the "real" place as seen by people who live there? This project is Broadway, which is a transient place where no-one really lives. What about suburban areas? Crime maps, house prices, etc. Does the data double of my street ring true or false? 
+
+====
+
+Matt Locke
+
+Documenting beginnings are easy because they're fictions, the idea that something emerged from nothing. 
+
+Documenting endings is hard because acknowledging that nothing ends, it just moves away from you, goes against ego-instinct.
+
+======
+
+Alexis Lloyd and Matthew Boggie 
+
+http://dispatchapp.wpengine.com
+
+Flipping the "walled garden" and giving control of it to the users. 
+
+p2p web browser - Maelstrom
+
+========
+
+Thursday Afternoon
+
+=========
+
+Bollocks to the main room. I'm off to the fireside chats. 
+
+==========
+
+Memo Akten
+
+Going back to last night, something about the directing of light beams which are visible in smoke, and the relationship of that to the controlling and capturing of light to make images / photos / video. 
+
+Lots of digital art is exploring the capturing of movement (Klaus Obermeyer etc). Movement is one of the three "problems" of photography (along with focus and brightness). Ponder....
+
+Difference in sensibilities between sonically and visually.  What we're more sensitive to and can process. Also aesthetic appreciation. Same patterns will be perceived differently depending on the sense used. 
+
+Ethienne Jules Marey
+
+ =================
+
+Friday
+
+=================
+
+Ingrid Burrington
+
+Astrology charts for intelligence agencies: Symbols of information failure, illustrate the absurdity of justifying drone-strikes with mass data collection.
+
+The myth that data gives you true things. 
+
+==============
+
+Blast Theory
+
+Interactive work is Unfinished - Brian Eno
+
+Structure: Initially looking for a thing, but there is no thing, but in looking for the thing something happens. 
+
+
+
+How is "My neck of the woods" any different to some one with a webcam and a youtube channel? Or even an Instagram account.
+
+Theatre / interactive fiction is basically willing manipulation, no? 
+
+=====
+
+Matthew Plummer-Fernandez
+http://plummerfernandez.com
+
+"Analogies are Heuristic, Expressive"
+
+"By adopting analogies we're engaging in the behaviours we're criticising"
+
+Borges reading list. 
+	The Aleph
+	The Tower of Babel
+	Tion, Uqbar, Orbis Tertius
+	The God Script
+	Partial Magic in Quiotx
+
+Exploiting the fabrication of fact - Not the scientific method, something else. Hoaxing, manipulation of reputation / sentiment. Hoaxes that become part of the discourse. (My In Stagram might have done this, in a small way.)
+
+===========
+
+Paolo Cirio
+http://www.paolocirio.net
+
+Daily Paywall is a "performance" which had Personal, Press and Legal responses. 
